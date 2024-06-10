@@ -20,3 +20,5 @@ if(keyboard_check(vk_right)) {
 } else {
 	sprite_index = spr_main_player_idle;
 }
+
+depth = -y;

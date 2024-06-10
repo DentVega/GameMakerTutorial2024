@@ -35,9 +35,11 @@
   },
   "name":"CursoGameMakerIntro",
   "resources":[
+    {"id":{"name":"obj_hazard","path":"objects/obj_hazard/obj_hazard.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_hazard","path":"sprites/spr_hazard/spr_hazard.yy",},},
     {"id":{"name":"spr_main_player_idle","path":"sprites/spr_main_player_idle/spr_main_player_idle.yy",},},
     {"id":{"name":"spr_main_player_running","path":"sprites/spr_main_player_running/spr_main_player_running.yy",},},
     {"id":{"name":"spr_tile_city","path":"sprites/spr_tile_city/spr_tile_city.yy",},},

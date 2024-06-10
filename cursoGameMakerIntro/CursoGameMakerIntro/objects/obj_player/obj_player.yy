@@ -35,7 +35,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"spr_main_player_idle",
     "path":"sprites/spr_main_player_idle/spr_main_player_idle.yy",
