@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-spd = 4;
+room_goto(rm_room2);
