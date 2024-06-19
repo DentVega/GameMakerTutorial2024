@@ -35,6 +35,7 @@
   },
   "name":"CursoGameMakerIntro",
   "resources":[
+    {"id":{"name":"ob_game_over","path":"objects/ob_game_over/ob_game_over.yy",},},
     {"id":{"name":"obj_go_to","path":"objects/obj_go_to/obj_go_to.yy",},},
     {"id":{"name":"obj_hazard","path":"objects/obj_hazard/obj_hazard.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
