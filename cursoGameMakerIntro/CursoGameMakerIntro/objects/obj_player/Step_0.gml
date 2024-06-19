@@ -22,3 +22,11 @@ if(keyboard_check(vk_right)) {
 }
 
 depth = -y;
+
+if(hp<=0) {
+	room_goto(rm_game_over);
+}
+
+show_debug_message("Vida:");
+show_debug_message(hp);
+
