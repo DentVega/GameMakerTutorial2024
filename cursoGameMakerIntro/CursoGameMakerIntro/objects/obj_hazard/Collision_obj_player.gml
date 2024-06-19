@@ -6,5 +6,9 @@ with(other) {
 	hp = hp - 1;
 	//hp -= 1;
 	//hp--;
-	
+	if(hp<=0) {
+		//audio play sound
+		audio_stop_sound(bgm_lights_out);
+		room_goto(rm_game_over);
+	}
 }
